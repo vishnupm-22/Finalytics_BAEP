@@ -1,1 +1,2 @@
-Completed a case-based project on pizza sales through Power BI and SQL to enhance business understanding
+Solved case based projects on various business scenarios, including boosting profits for a global tech company using the MECE
+Method, assessing a tourism project’s viability through MS Excel and applied Power BI to analyze consumer behavior.
